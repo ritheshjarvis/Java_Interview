@@ -20,5 +20,8 @@ public class OccurrenceOfCharacter {
         }
 
         System.out.println(output);
+        System.out.println(output.keySet());
+        System.out.println(output.values());
+        System.out.println(output.entrySet());
     }
 }

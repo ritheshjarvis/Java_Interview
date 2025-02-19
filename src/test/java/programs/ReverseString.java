@@ -21,5 +21,6 @@ public class ReverseString {
             output = input_arr[i] + output;
         }
         System.out.println(output);
+        System.out.println(output);
     }
 }
